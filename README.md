@@ -1,4 +1,4 @@
-# PROGRAMOK
+# Programok
 
 Minecraft:
 https://prismlauncher.org/download/ (csak eredeti)
@@ -21,7 +21,7 @@ https://ninite.com/
 Open source torrent kliens:
 https://www.qbittorrent.org/
 
-# AKTIVÁLÓ
+# Aktiváló
 
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
