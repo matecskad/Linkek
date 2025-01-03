@@ -15,6 +15,9 @@ https://www.marticliment.com/wingetui/
 Spotify moddolt:
 https://raw.githack.com/amd64fox/SpotX/main/Install_New_theme.bat
 
+Youtube Music App:
+https://github.com/th-ch/youtube-music
+
 Fontos cuccok újratelepítéskor:
 https://ninite.com/
 
